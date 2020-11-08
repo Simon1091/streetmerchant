@@ -97,6 +97,20 @@ export const BestBuy: Store = {
 		},
 		{
 			brand: 'gigabyte',
+			cartUrl: 'https://api.bestbuy.com/click/-/6439385/cart',
+			model: 'vision oc',
+			series: '3070',
+			url: 'https://www.bestbuy.com/site/gigabyte-geforce-rtx-3070-8g-gddr6-pci-express-4-0-graphics-card-white/6439385.p?skuId=6439385&intl=nosplash'
+		},
+		{
+			brand: 'gigabyte',
+			cartUrl: 'https://api.bestbuy.com/click/-/6439384/cart',
+			model: 'aorus master',
+			series: '3070',
+			url: 'https://www.bestbuy.com/site/gigabyte-geforce-rtx-3070-8g-gddr6-pci-express-4-0-graphics-card-black/6439384.p?skuId=6439384&intl=nosplash'
+		},
+		{
+			brand: 'gigabyte',
 			cartUrl: 'https://api.bestbuy.com/click/-/6430620/cart',
 			model: 'gaming oc',
 			series: '3080',
